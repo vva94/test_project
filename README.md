@@ -14,3 +14,4 @@ YouTrack integration
 #INFR-5 Fixed - 2nd attempt
 Ready to pull #INFR-5 Fixed
 All users #INFR-5 Fixed
+#INTEGRATION-1 Fixed
