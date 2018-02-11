@@ -20,3 +20,4 @@ takewing email #INTEGRATION-2 Fixed
 iptables input default accept ticket #INTEGRATION-2 Fixed
 iptables save-reload #INTEGRATION-2 Fixed
 primary email update in github
+proper url
