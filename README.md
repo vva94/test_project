@@ -17,3 +17,4 @@ All users #INFR-5 Fixed
 #INTEGRATION-1 Fixed
 changed github email #INTEGRATION-1 Fixed
 takewing email #INTEGRATION-2 Fixed
+iptables input default accept ticket #INTEGRATION-2 Fixed
