@@ -15,3 +15,4 @@ YouTrack integration
 Ready to pull #INFR-5 Fixed
 All users #INFR-5 Fixed
 #INTEGRATION-1 Fixed
+changed github email #INTEGRATION-1 Fixed
